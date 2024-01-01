@@ -1,7 +1,7 @@
 ## Olá eu sou o Luis Kuckel!!!
 
-- 🔭 Hoje estou trabalhando como freelancer em Front-end e desenvolvimento Web
-- 🌱 Atualmente estou estudando: Javascript, CSS intermediário e Avançado, SASS.
+- 🔭 Aluno da Alura
+- 🌱 Atualmente estou estudando: Html,CSS intermediário e Avançado.
 - 😄 Pronomes: Ele/Dele
 
 
