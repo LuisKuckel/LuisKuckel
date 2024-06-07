@@ -1,3 +1,5 @@
+![snake gif](https://github.com/LuisKuckel/LuisKuckel/blob/output/github-contribution-grid-snake.svg)
+
 ## Olá eu sou o Luis Kuckel!!!
 
 - 🔭 Aluno da Alura
