@@ -1,4 +1,4 @@
-![snake gif](https://github.com/LuisKuckel/LuisKuckel/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/LuisKuckel/LuisKuckel/blob/output/github-contribution-grid-snake.gif)
 
 ## Olá eu sou o Luis Kuckel!!!
 
