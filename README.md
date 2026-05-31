@@ -2,7 +2,7 @@
 
 - 🔭 Aluno da Alura
 - 🔭 Aluno da DIO
-- 🌱 Atualmente estou estudando: front-end com integrações com back-end
+- 🌱 Engenheiro de Software
 - 😄 Pronomes: Ele/Dele
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Programmer passionate about technology, learning new things all the time and living tech!!!</p>&nbsp;
