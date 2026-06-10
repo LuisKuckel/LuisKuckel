@@ -9,7 +9,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=luiskuckel&theme=radical&mode=weekly" />
-<img width=40% align="center" src="![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luiskuckel&theme=github_dark)" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiskuckel&layout=compact&theme=radical" />
  </div>
  
  &nbsp;
